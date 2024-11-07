@@ -1,0 +1,11 @@
+Vamos Lá -->
+
+Sisteminha de Acompanhamento de Eps de Séries
+
+Funcionalidades: CRUD
+
+Usar: Junit
+
+Modelo TDD e BDD.
+
+Ciclo --> 
