@@ -8,7 +8,9 @@ Usar: JUnit // Modelo TDD e BDD.
 
 Ciclo --> Integração Bdd com Tdd
 
-    1)
-    2)
-    3)
+    1) Escrever Comportamento Conforme Gherkin
+    2) Escrever Teste Falho
+    3) Escrever Código que Passa
+    4) Refatoração do Código
+    5) Repeat
     
