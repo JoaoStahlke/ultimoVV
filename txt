@@ -4,8 +4,11 @@ Sisteminha de Acompanhamento de Eps de Séries
 
 Funcionalidades: CRUD
 
-Usar: Junit
+Usar: JUnit // Modelo TDD e BDD.
 
-Modelo TDD e BDD.
+Ciclo --> Integração Bdd com Tdd
 
-Ciclo --> 
+    1)
+    2)
+    3)
+    
